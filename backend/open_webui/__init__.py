@@ -80,7 +80,7 @@ def serve(
 @app.command()
 def dev(
     host: str = "0.0.0.0",
-    port: int = 8080,
+    port: int = 80,
     reload: bool = True,
 ):
     uvicorn.run(
