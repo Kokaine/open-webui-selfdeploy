@@ -1,6 +1,6 @@
 {
-  "name": "Open WebUI",
-  "short_name": "WebUI",
+  "name": "北京一零一中AI平台",
+  "short_name": "AI@101",
   "icons": [
     {
       "src": "/static/web-app-manifest-192x192.png",
